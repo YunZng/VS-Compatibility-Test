@@ -275,3 +275,4 @@
 /Users/yunzng/Downloads/azure-learning/RazorPageMovie/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
 /Users/yunzng/Downloads/azure-learning/RazorPageMovie/obj/Debug/net8.0/RazorPageMovie.csproj.AssemblyReference.cache
 /Users/yunzng/Downloads/azure-learning/RazorPageMovie/obj/Debug/net8.0/RazorPag.1D3D6EB8.Up2Date
+/Users/yunzng/Downloads/azure-learning/RazorPageMovie/obj/Debug/net8.0/RazorPageMovie.sourcelink.json
